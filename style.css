@@ -1,0 +1,10 @@
+html{
+    text-align: center;
+}
+table{
+    border: 20px;
+    margin: 0 auto;
+    font-size: medium;
+    color: beige;
+    background-color: black;
+}
